@@ -1,0 +1,11 @@
+*{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.main{
+    margin-top: 450px;
+}
+button{
+    margin: 10px;
+}
